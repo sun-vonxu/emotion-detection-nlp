@@ -1,7 +1,7 @@
 # Emotion Detection from Text using NLP
 
 ## 📘 Project Overview
-A Natural Language Processing project for detecting emotions (e.g., joy, sadness, anger, fear) from text using traditional ML and deep learning models (MNB, SVM, BiLSTM, BERT). Developed as part of an MSc AI & Data Science semester project.
+A Natural Language Processing project for detecting emotions (e.g., joy, sadness, anger, fear) from text using traditional ML and deep learning models (MNB, SVM, BiLSTM, BERT). 
 
 ## Objectives
 - Build a robust emotion classifier using publicly available datasets.
