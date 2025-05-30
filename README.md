@@ -3,7 +3,7 @@
 ## 📘 Project Overview
 A Natural Language Processing project for detecting emotions (e.g., joy, sadness, anger, fear) from text using traditional ML and deep learning models (MNB, SVM, BiLSTM, BERT). Developed as part of an MSc AI & Data Science semester project.
 
-## 🎯 Objectives
+## Objectives
 - Build a robust emotion classifier using publicly available datasets.
 - Compare traditional ML and deep learning approaches.
 - Evaluate models with F1, accuracy, AUC, and visualize performance.
@@ -14,7 +14,7 @@ A Natural Language Processing project for detecting emotions (e.g., joy, sadness
 - `models/`: Trained model files.
 - `reports/`: Final project report and visualizations.
 
-## 🧠 Models Used
+## Models Used
 - **Traditional ML**: Multinomial Naive Bayes, Support Vector Machine (SVM)
 - **Deep Learning**: Bidirectional LSTM (BiLSTM), Fine-tuned BERT
 
@@ -24,7 +24,7 @@ A Natural Language Processing project for detecting emotions (e.g., joy, sadness
 - Confusion Matrix
 - ROC AUC
 
-## 📦 Requirements
+## Requirements
 See `requirements.txt`
 
 ## 🚀 Running the Project
